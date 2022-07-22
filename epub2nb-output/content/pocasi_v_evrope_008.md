@@ -1,12 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: "Barcelonské výkřiky z\_mé skleněné hlavy"
+contentType: poetry
 ---
 
 <section>
-
-Barcelonské výkřiky  
-z mé skleněné hlavy
 
 > _Pro Fantasíu_
 

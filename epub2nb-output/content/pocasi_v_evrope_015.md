@@ -1,11 +1,11 @@
 ---
 title: Vzpomínka na Bělehrad
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_To mé jsou tyhle vzpomínky.  
+To mé jsou tyhle vzpomínky.  
 Elektro navlhčené jazykem.  
 Cizím a špičatým. S růží na hrotu.  
 Někde na dně kufru mám ještě  
@@ -17,26 +17,26 @@ V sexy bundičce, západní zboží,
 rozháním popelavou letku města  
 a moje matka, plavá a sošná  
 směje se a otec černý jako hlad  
-vraští obočí skoro jak Wanda Heinrichová._
+vraští obočí skoro jak Wanda Heinrichová.
 
 </section>
 
 <section>
 
-_Bělehrad prodal mé matce kočičí zlato,  
+Bělehrad prodal mé matce kočičí zlato,  
 Cikánovy oči pak udal u mně,  
 a zatím Dům květin ještě nestál  
 a náš Maršál už skoro neviděl,  
 ale bratrství národů střežil  
 víc než zorničku svého oka  
 v ní plápolaly pospolu  
-nenávist a svár._
+nenávist a svár.
 
 </section>
 
 <section>
 
-_Chce se mi vykřiknout na Kalemegdan:  
+Chce se mi vykřiknout na Kalemegdan:  
 Kdo je ten chlapec?  
 K jakému světlu míří ty paže?  
 A co vidím, prach mužských květin,  
@@ -58,6 +58,6 @@ lesknu se a potím,
 abych přitáhl zrak  
 porcelánové stráže,  
 válečníkových knírů,  
-medvědí tlapy._
+medvědí tlapy.
 
 </section>

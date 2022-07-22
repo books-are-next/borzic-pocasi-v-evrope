@@ -1,11 +1,11 @@
 ---
 title: Ve vietnamské večerce
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Nechtěl jsi najít poezii,  
+Nechtěl jsi najít poezii,  
 když jsi jednoho večera vstoupil do vietnamské večerky  
 s úmyslem koupit si cigarety.  
 Poezie je anarchistka,  
@@ -16,6 +16,6 @@ na zářivém monitoru, který sálá sitkom,
 nebo talk show nebo reality show,  
 nebo něco na ten způsob v její mateřštině  
 a její tvář roztává prvním úsměvem  
-tropického lesa._
+tropického lesa.
 
 </section>

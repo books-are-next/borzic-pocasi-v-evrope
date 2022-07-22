@@ -1,44 +1,44 @@
 ---
 title: "Tato báseň není o\_politice"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Na okraj mého vědomí  
+Na okraj mého vědomí  
 na lesní lavičce  
 připlula lodička  
 a z ní vystoupil  
 v bílé uniformě  
 — to už jsme stáli na lebce luny —  
-Maršál Tito_
+Maršál Tito
 
 </section>
 
 <section>
 
-_Rozhlédl se  
+Rozhlédl se  
 A pokynul mi tlustým ukazovákem  
 z něhož rázem vyběhla parta červů  
-a počala vydávat rohaté zvuky_
+a počala vydávat rohaté zvuky
 
 </section>
 
 <section>
 
-_Rozhlédl jsem se také  
+Rozhlédl jsem se také  
 Měsíční kráter sálal  
 Pokryla jej růžová fólie  
 Přeběhly přes něj vlny  
-Beránci_
+Beránci
 
 </section>
 
 <section>
 
-_V ten okamžik  
+V ten okamžik  
 Ořech dětství puknul  
 A z jeho útrob vylezla  
-Nahá a mastná politika Jihu_
+Nahá a mastná politika Jihu
 
 </section>

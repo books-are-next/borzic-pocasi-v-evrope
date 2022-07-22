@@ -1,21 +1,21 @@
 ---
 title: Konec týdne
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Oblouky mostu  
+Oblouky mostu  
 Vyplnil med  
 Večerního slunce  
 Řeka se opila máslem vody  
 Ve městě  
-Kde zrovna umíral starý týden_
+Kde zrovna umíral starý týden
 
 </section>
 
 <section>
 
-_Šťastně_
+Šťastně
 
 </section>

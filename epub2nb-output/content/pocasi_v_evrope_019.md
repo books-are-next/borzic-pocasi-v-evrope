@@ -1,24 +1,24 @@
 ---
 title: "Noc s\_partyzánem"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Noc v domě  
+Noc v domě  
 otcovy sestřenice baletky.  
 To už jsem onanoval.  
 Otevřeným oknem vpadávaly  
 do horkého kamrlíku hlasy.  
 Přikrytý jen prostěradlem,  
 čekal jsem každou vteřinu,  
-až uslyším výstřel._
+až uslyším výstřel.
 
 </section>
 
 <section>
 
-_V mém zavřeném oku  
+V mém zavřeném oku  
 se krásný komunista v baretu  
 měnil v rudou skvrnu,  
 kterou mí příbuzní Ustašovci  
@@ -27,27 +27,27 @@ Vykřiknul jsem.
 Slyšela mě ale jen  
 samolepkami polepená lednice  
 a černé borovice na dvoře  
-mručely v jemném vánku._
+mručely v jemném vánku.
 
 </section>
 
 <section>
 
-_V druhém oku jsem měl moc,  
+V druhém oku jsem měl moc,  
 vzkřísil jsem ho,  
 a když otevřel oči,  
 leželi jsme na ztichlé pláži.  
 Díval se mírně, překvapeně,  
 ale jeho úsměv mě doslova donutil  
 stáhnout mu kalhoty i trenky  
-a vesele se pomstít rodině._
+a vesele se pomstít rodině.
 
 </section>
 
 <section>
 
-_Krásný partyzán v levém oku.  
+Krásný partyzán v levém oku.  
 Děda byl taky partyzán,  
-krom mě tuhle úchylku nikdo nezdědil._
+krom mě tuhle úchylku nikdo nezdědil.
 
 </section>

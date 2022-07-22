@@ -1,0 +1,804 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Počasí v Evropě",
+  "author": "Adam Borzič",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "borzic-pocasi-v-evrope-804fffa",
+  "revision": "804fffa",
+  "readingOrder": [
+    "promo.html",
+    "pocasi_v_evrope_005.html",
+    "pocasi_v_evrope_006.html",
+    "pocasi_v_evrope_007.html",
+    "pocasi_v_evrope_008.html",
+    "pocasi_v_evrope_009.html",
+    "pocasi_v_evrope_010.html",
+    "pocasi_v_evrope_011.html",
+    "pocasi_v_evrope_012.html",
+    "pocasi_v_evrope_013.html",
+    "pocasi_v_evrope_014.html",
+    "pocasi_v_evrope_015.html",
+    "pocasi_v_evrope_016.html",
+    "pocasi_v_evrope_017.html",
+    "pocasi_v_evrope_018.html",
+    "pocasi_v_evrope_019.html",
+    "pocasi_v_evrope_020.html",
+    "pocasi_v_evrope_021.html",
+    "pocasi_v_evrope_022.html",
+    "pocasi_v_evrope_023.html",
+    "pocasi_v_evrope_024.html",
+    "pocasi_v_evrope_025.html",
+    "pocasi_v_evrope_026.html",
+    "pocasi_v_evrope_027.html",
+    "pocasi_v_evrope_028.html",
+    "pocasi_v_evrope_029.html",
+    "pocasi_v_evrope_030.html",
+    "pocasi_v_evrope_031.html",
+    "pocasi_v_evrope_032.html",
+    "pocasi_v_evrope_033.html",
+    "pocasi_v_evrope_034.html",
+    "pocasi_v_evrope_035.html",
+    "pocasi_v_evrope_036.html",
+    "pocasi_v_evrope_037.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Fri Jul 22 2022 13:20:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658496046189
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "pocasi_v_evrope_005.html",
+      "toc": []
+    },
+    {
+      "title": "Počasí v Evropě",
+      "file": "pocasi_v_evrope_005.html",
+      "words": 387,
+      "chars": 2572,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "pocasi_v_evrope_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na výběr",
+      "file": "pocasi_v_evrope_006.html",
+      "words": 44,
+      "chars": 262,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 2,
+      "prev": "pocasi_v_evrope_005.html",
+      "next": "pocasi_v_evrope_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na výběr",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Krachuje kapitalismus, leč poezie na zemi neumlká",
+      "file": "pocasi_v_evrope_007.html",
+      "words": 111,
+      "chars": 702,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 3,
+      "prev": "pocasi_v_evrope_006.html",
+      "next": "pocasi_v_evrope_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Krachuje kapitalismus, leč poezie na zemi neumlká",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Barcelonské výkřiky z mé skleněné hlavy",
+      "file": "pocasi_v_evrope_008.html",
+      "words": 1000,
+      "chars": 5869,
+      "ideas": 158,
+      "role": "chapter",
+      "order": 4,
+      "prev": "pocasi_v_evrope_007.html",
+      "next": "pocasi_v_evrope_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Barcelonské výkřiky z mé skleněné hlavy",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1. Křik, který začal na Montjuïc",
+              "id": "1-křik-který-začal-nanbspmontjuïc",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2. Křik, který začal na Plaça del Sol",
+              "id": "2-křik-který-začal-nanbspplaça-del-sol",
+              "children": []
+            },
+            {
+              "index": 3,
+              "level": 2,
+              "name": "3. Křik, který začal v katedrále La Seu",
+              "id": "3-křik-který-začal-vkatedrále-lanbspseu",
+              "children": []
+            },
+            {
+              "index": 4,
+              "level": 2,
+              "name": "4. Křik, který začal na úpatí parku Güell",
+              "id": "4-křik-který-začal-nanbspúpatí-parku-güell",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ve vietnamské večerce",
+      "file": "pocasi_v_evrope_009.html",
+      "words": 71,
+      "chars": 426,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 5,
+      "prev": "pocasi_v_evrope_008.html",
+      "next": "pocasi_v_evrope_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ve vietnamské večerce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Štíhlé sumo",
+      "file": "pocasi_v_evrope_010.html",
+      "words": 279,
+      "chars": 1651,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 6,
+      "prev": "pocasi_v_evrope_009.html",
+      "next": "pocasi_v_evrope_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Štíhlé sumo",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Útok vůně",
+      "file": "pocasi_v_evrope_011.html",
+      "words": 125,
+      "chars": 731,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 7,
+      "prev": "pocasi_v_evrope_010.html",
+      "next": "pocasi_v_evrope_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Útok vůně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ztracené básně",
+      "file": "pocasi_v_evrope_012.html",
+      "words": 409,
+      "chars": 2408,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 8,
+      "prev": "pocasi_v_evrope_011.html",
+      "next": "pocasi_v_evrope_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ztracené básně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Splitský výjev",
+      "file": "pocasi_v_evrope_013.html",
+      "words": 148,
+      "chars": 782,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 9,
+      "prev": "pocasi_v_evrope_012.html",
+      "next": "pocasi_v_evrope_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Splitský výjev",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Americká krása",
+      "file": "pocasi_v_evrope_014.html",
+      "words": 152,
+      "chars": 906,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 10,
+      "prev": "pocasi_v_evrope_013.html",
+      "next": "pocasi_v_evrope_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Americká krása",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínka na Bělehrad",
+      "file": "pocasi_v_evrope_015.html",
+      "words": 208,
+      "chars": 1200,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 11,
+      "prev": "pocasi_v_evrope_014.html",
+      "next": "pocasi_v_evrope_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzpomínka na Bělehrad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "To léto",
+      "file": "pocasi_v_evrope_016.html",
+      "words": 280,
+      "chars": 1715,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 12,
+      "prev": "pocasi_v_evrope_015.html",
+      "next": "pocasi_v_evrope_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "To léto",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "1.",
+              "id": "1",
+              "children": []
+            },
+            {
+              "index": 2,
+              "level": 2,
+              "name": "2.",
+              "id": "2",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tato báseň není o politice",
+      "file": "pocasi_v_evrope_017.html",
+      "words": 82,
+      "chars": 434,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 13,
+      "prev": "pocasi_v_evrope_016.html",
+      "next": "pocasi_v_evrope_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tato báseň není o politice",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nejsem Balkánec",
+      "file": "pocasi_v_evrope_018.html",
+      "words": 348,
+      "chars": 2078,
+      "ideas": 87,
+      "role": "chapter",
+      "order": 14,
+      "prev": "pocasi_v_evrope_017.html",
+      "next": "pocasi_v_evrope_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nejsem Balkánec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Noc s partyzánem",
+      "file": "pocasi_v_evrope_019.html",
+      "words": 121,
+      "chars": 709,
+      "ideas": 30,
+      "role": "chapter",
+      "order": 15,
+      "prev": "pocasi_v_evrope_018.html",
+      "next": "pocasi_v_evrope_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Noc s partyzánem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ante",
+      "file": "pocasi_v_evrope_020.html",
+      "words": 71,
+      "chars": 374,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 16,
+      "prev": "pocasi_v_evrope_019.html",
+      "next": "pocasi_v_evrope_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ante",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Myslím, že jsem se o tebe pořezal",
+      "file": "pocasi_v_evrope_021.html",
+      "words": 167,
+      "chars": 913,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 17,
+      "prev": "pocasi_v_evrope_020.html",
+      "next": "pocasi_v_evrope_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Myslím, že jsem se o tebe pořezal",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Podlaha",
+      "file": "pocasi_v_evrope_022.html",
+      "words": 62,
+      "chars": 326,
+      "ideas": 14,
+      "role": "chapter",
+      "order": 18,
+      "prev": "pocasi_v_evrope_021.html",
+      "next": "pocasi_v_evrope_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Podlaha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pětiletý medvěd se ptá",
+      "file": "pocasi_v_evrope_023.html",
+      "words": 183,
+      "chars": 949,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 19,
+      "prev": "pocasi_v_evrope_022.html",
+      "next": "pocasi_v_evrope_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pětiletý medvěd se ptá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Teplý zpěv ticha",
+      "file": "pocasi_v_evrope_024.html",
+      "words": 125,
+      "chars": 745,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 20,
+      "prev": "pocasi_v_evrope_023.html",
+      "next": "pocasi_v_evrope_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Teplý zpěv ticha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slavonská samota",
+      "file": "pocasi_v_evrope_025.html",
+      "words": 366,
+      "chars": 2003,
+      "ideas": 95,
+      "role": "chapter",
+      "order": 21,
+      "prev": "pocasi_v_evrope_024.html",
+      "next": "pocasi_v_evrope_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slavonská samota",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Koupelna v domě nad křižovatkou",
+      "file": "pocasi_v_evrope_026.html",
+      "words": 83,
+      "chars": 493,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 22,
+      "prev": "pocasi_v_evrope_025.html",
+      "next": "pocasi_v_evrope_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Koupelna v domě nad křižovatkou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Milenci / Tarot /",
+      "file": "pocasi_v_evrope_027.html",
+      "words": 180,
+      "chars": 1054,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 23,
+      "prev": "pocasi_v_evrope_026.html",
+      "next": "pocasi_v_evrope_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Milenci / Tarot /",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Moje neznámá",
+      "file": "pocasi_v_evrope_028.html",
+      "words": 133,
+      "chars": 723,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 24,
+      "prev": "pocasi_v_evrope_027.html",
+      "next": "pocasi_v_evrope_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Moje neznámá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Proti rohu",
+      "file": "pocasi_v_evrope_029.html",
+      "words": 180,
+      "chars": 1032,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 25,
+      "prev": "pocasi_v_evrope_028.html",
+      "next": "pocasi_v_evrope_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Proti rohu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otazníky luny",
+      "file": "pocasi_v_evrope_030.html",
+      "words": 67,
+      "chars": 333,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 26,
+      "prev": "pocasi_v_evrope_029.html",
+      "next": "pocasi_v_evrope_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otazníky luny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nejsa Faust",
+      "file": "pocasi_v_evrope_031.html",
+      "words": 263,
+      "chars": 1489,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 27,
+      "prev": "pocasi_v_evrope_030.html",
+      "next": "pocasi_v_evrope_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nejsa Faust",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Předpoklad místo nonsensu",
+      "file": "pocasi_v_evrope_032.html",
+      "words": 30,
+      "chars": 160,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 28,
+      "prev": "pocasi_v_evrope_031.html",
+      "next": "pocasi_v_evrope_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Předpoklad místo nonsensu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "So what — pocta blahoslavenému Milesovi Davisovi",
+      "file": "pocasi_v_evrope_033.html",
+      "words": 495,
+      "chars": 2741,
+      "ideas": 87,
+      "role": "chapter",
+      "order": 29,
+      "prev": "pocasi_v_evrope_032.html",
+      "next": "pocasi_v_evrope_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "So what — pocta blahoslavenému Milesovi Davisovi",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Zárodky příštích básní",
+      "file": "pocasi_v_evrope_034.html",
+      "words": 253,
+      "chars": 1517,
+      "ideas": 60,
+      "role": "chapter",
+      "order": 30,
+      "prev": "pocasi_v_evrope_033.html",
+      "next": "pocasi_v_evrope_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Zárodky příštích básní",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sekvence z moře",
+      "file": "pocasi_v_evrope_035.html",
+      "words": 103,
+      "chars": 563,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 31,
+      "prev": "pocasi_v_evrope_034.html",
+      "next": "pocasi_v_evrope_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sekvence z moře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Počasí v Evropě",
+      "file": "pocasi_v_evrope_036.html",
+      "words": 62,
+      "chars": 349,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 32,
+      "prev": "pocasi_v_evrope_035.html",
+      "next": "pocasi_v_evrope_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Počasí v Evropě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Konec týdne",
+      "file": "pocasi_v_evrope_037.html",
+      "words": 21,
+      "chars": 120,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 33,
+      "prev": "pocasi_v_evrope_036.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Konec týdne",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 138,
+      "chars": 881,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "pocasi_v_evrope_037.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 6754,
+      "chars": 39245,
+      "ideas": 1325
+    },
+    "chapters": {
+      "words": 6609,
+      "chars": 38329,
+      "ideas": 1304
+    }
+  }
+}

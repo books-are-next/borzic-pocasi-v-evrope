@@ -1,11 +1,11 @@
 ---
 title: Krachuje kapitalismus, leč poezie na zemi neumlká
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Z lebky Země — _jak živé je slovo lebka_ — teď raší nová slova,  
+Z lebky Země — _jak živé je slovo lebka_ — teď raší nová slova,  
 šlahouny, liány, popínavci,  
 svěcení papoušci,  
 rudé zobáky,  
@@ -17,13 +17,13 @@ ořechy a oleje,
 kluzké stěny těla  
 a mléčný jas  
 lidského vědomí,  
-hvězdné srdce,_
+hvězdné srdce,
 
 </section>
 
 <section>
 
-_život se rozlil v žilách,  
+život se rozlil v žilách,  
 rozvodněná řeka města rozváží všem tepnám červenou jiskřivost tepla,  
 konečně unesen do přístavu:  
 Příbory v přísvitu  
@@ -34,6 +34,6 @@ vlhkost na rtech téměř suchá,
 řasy, bíložluté trávy, ostřice,  
 nálety perleťových dravců,  
 rybářské plachty, slané snící uši,  
-celý ten obrat v mé skleněné hlavě._
+celý ten obrat v mé skleněné hlavě.
 
 </section>

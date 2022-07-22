@@ -1,11 +1,11 @@
 ---
 title: Nejsa Faust
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Kdybych byl Faust,  
+Kdybych byl Faust,  
 sral bych zdi kolem srdce za hrobových nocí,  
 lil bych litry zkysaného mlíka po schodech,  
 a smál bych se — smál  
@@ -61,6 +61,6 @@ Nejsa Faust,
 musím se vydat polehounku domů  
 a až odemknu byt  
 a shodím svršky  
-otevřu počítač a zapíšu tuhle báseň._
+otevřu počítač a zapíšu tuhle báseň.
 
 </section>

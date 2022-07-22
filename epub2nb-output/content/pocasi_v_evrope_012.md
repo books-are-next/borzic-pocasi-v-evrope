@@ -1,11 +1,11 @@
 ---
 title: Ztracené básně
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Ztratil jsem další básně  
+Ztratil jsem další básně  
 — další iluze  
 v halucinačním jasu  
 podzimních hor  
@@ -33,13 +33,13 @@ a byla to dickensovská Anglie
 kterou kamera mého oka  
 stopovala, mapa pusté přítomnosti  
 soumrak v přímém přenosu  
-svět jak jsme ho nechtěli znát —_
+svět jak jsme ho nechtěli znát —
 
 </section>
 
 <section>
 
-_v tom snu mi ale báseň vyfoukla izraelská televize  
+v tom snu mi ale báseň vyfoukla izraelská televize  
 řekli, jste autor, je to na posledním řádku napsáno  
 vidíte, řekl jsem, ale jsem autor, autor toho dokumentu  
 který vysíláte, měl bych to alespoň vědět,  
@@ -78,13 +78,13 @@ Rád proháním své jméno Googlem
 i když mám komplexy ze špatné jazykové výbavy  
 — a ty dominantní ženy  
 a nepřítomní muži  
-O tom snad jindy_
+O tom snad jindy
 
 </section>
 
 <section>
 
-_A děti?  
+A děti?  
 Když jsem se rozhodnul, že žádné mít nebudu  
 že je nevystavím svému velkolepému osudu  
 zatratil jsem snad Božské dítě  
@@ -95,24 +95,24 @@ a Böhme zas prodával kožešiny)
 A dětství, není ono samo jen dospělostí svého času?  
 V takové rovnici je pak dospělost  
 jen svrchovaným vědomím  
-že stále ještě nejsem Dítě_
+že stále ještě nejsem Dítě
 
 </section>
 
 <section>
 
-_Takže celý  
+Takže celý  
 spojený proti proudu se vším děním  
 scházím ze schodů  
 a znova vystupuji  
 Pode mnou traverzy  
 sekvence, dojmy  
-dokument_
+dokument
 
 </section>
 
 <section>
 
-_Musím ještě něco objevit_
+Musím ještě něco objevit
 
 </section>

@@ -1,13 +1,13 @@
 ---
 title: To léto
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-1.
+## 1.
 
-_To léto sněžná únava ze země,  
+To léto sněžná únava ze země,  
 kde sníh býval svátkem,  
 pestrý svým třeštivým veselím.  
 Přijeli jsme v noci.  
@@ -19,26 +19,26 @@ Ráno v máslíčku a džemu
 vstala sama existence  
 a prokleté sexy slunce toho léta  
 vyplulo nad šachovou metropoli  
-jak v mýdlové opeře._
+jak v mýdlové opeře.
 
 </section>
 
 <section>
 
-_Naše nejněžnější prázdniny pospolu.  
+Naše nejněžnější prázdniny pospolu.  
 (Nesmím opominout vlaky, vlaky dlouhé jak osud.)  
 Slyším z chodbičky otcův rozhovor s Jugoslávkou  
 z přesvědčení, za oknem ubíhá kukuřice  
 a já hledám smaragdy v plechovém koši. Všechno  
-doutná: půda byla nezvykle horká to léto._
+doutná: půda byla nezvykle horká to léto.
 
 </section>
 
 <section>
 
-2.
+## 2.
 
-_Před výbuchem balkánské krčmy  
+Před výbuchem balkánské krčmy  
 nervózně se o sebe třely zatím neviditelné vlajky  
 konečně viditelných republik federace,  
 noviny se četly ve stoje  
@@ -71,17 +71,17 @@ Tita i Lenina pořád dokola.
 tváří v tvář Kosovskému poli  
 z jehož byzantské nádhery  
 vzlétaly orlice  
-s jinak rudými zobáky._
+s jinak rudými zobáky.
 
 </section>
 
 <section>
 
-_Chvělo se to v kelímku limonády,  
+Chvělo se to v kelímku limonády,  
 v tekutě žluté mase toho léta,  
 prskalo to ze špatného piva,  
 klouzalo to do krku v koňaku,  
 ani smrad tržiště to nezdolal.  
-Bylo to ve vzduchu_
+Bylo to ve vzduchu
 
 </section>

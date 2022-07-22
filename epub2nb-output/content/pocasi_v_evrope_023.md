@@ -1,19 +1,19 @@
 ---
 title: Pětiletý medvěd se ptá
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Muž nebo žena?  
+Muž nebo žena?  
 Kdo?  
-Jsem svítání? Noci?_
+Jsem svítání? Noci?
 
 </section>
 
 <section>
 
-_Odemykám byt. Teď, když je prázdný,  
+Odemykám byt. Teď, když je prázdný,  
 je čas přestat s hrdinskou hrou,  
 mrštím s ní do kouta,  
 v němž se válí tvoje svršky,  
@@ -28,38 +28,38 @@ puká to ve mně jak ve skále.
 valí se proudy divného citu.  
 Cítím v zubech kostku cukru,  
 pak dopadá na moje záda bič,  
-z těch ran jsou stříkance světla._
+z těch ran jsou stříkance světla.
 
 </section>
 
 <section>
 
-_Celý se chvěju.  
+Celý se chvěju.  
 Cos mi to provedl?  
 Co jsem ti provedl?  
 Do jaké hry jsme se propadli?  
 Na jakém dně plavou tyhle veliké zářící ryby?  
 Proč jsou tu truhly naložené zlatem a perlami?  
 Proč se mi zdá, že jsem jen vlna neustále obalovaná  
-další a další prohrou?_
+další a další prohrou?
 
 </section>
 
 <section>
 
-_Klamu se? Klameš mě?  
-Klamou mě květiny na okně?_
+Klamu se? Klameš mě?  
+Klamou mě květiny na okně?
 
 </section>
 
 <section>
 
-_Kdo teď jsem?  
+Kdo teď jsem?  
 Mág? Pětiletý medvěd, co se bezprizorně ptá  
 a v oku mu plane hvězdice ztracená?  
 Tak fyzicky? Tak metafyzicky?  
 Tak modře? Tak rudě? Tak bíle?  
 Tak krutě? Se mi zdá, že slunce padá  
-            z nebe?_
+            z nebe?
 
 </section>
