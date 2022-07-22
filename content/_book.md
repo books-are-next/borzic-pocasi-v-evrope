@@ -61,6 +61,9 @@ tocBase:
       - link: pocasi_v_evrope_007.html
         title: Krachuje kapitalismus, leč poezie na zemi neumlká
         hiddenTitle: false
+      - link: pocasi_v_evrope_008.html
+        title: Barcelonské výkřiky z mé skleněné hlavy
+        hiddenTitle: false
       - link: pocasi_v_evrope_009.html
         title: Ve vietnamské večerce
         hiddenTitle: false
@@ -114,6 +117,9 @@ tocBase:
         hiddenTitle: false
       - link: pocasi_v_evrope_026.html
         title: Koupelna v domě nad křižovatkou
+        hiddenTitle: false
+      - link: pocasi_v_evrope_027.html
+        title: Milenci / Tarot /
         hiddenTitle: false
       - link: pocasi_v_evrope_028.html
         title: Moje neznámá
