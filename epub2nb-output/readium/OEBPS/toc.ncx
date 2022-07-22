@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Počasí v Evropě</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Co chceš zaznamenat? (Předmluva Jakuba Řeháka)</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Na výběr</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_006.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Krachuje kapitalismus, leč poezie na zemi neumlká</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_007.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Barcelonské výkřiky z mé skleněné hlavy</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_008.xhtml#_idParaDest-4"/>
+      <navPoint id="navPoint-5" playOrder="5">
+        <navLabel>
+          <text>1. Křik, který začal na Montjuïc</text>
+        </navLabel>
+        <content src="Text/pocasi_v_evrope_008.xhtml#_idParaDest-5"/>
+      </navPoint>
+      <navPoint id="navPoint-6" playOrder="6">
+        <navLabel>
+          <text>2. Křik, který začal na Plaça del Sol</text>
+        </navLabel>
+        <content src="Text/pocasi_v_evrope_008.xhtml#_idParaDest-6"/>
+      </navPoint>
+      <navPoint id="navPoint-7" playOrder="7">
+        <navLabel>
+          <text>3. Křik, který začal v katedrále La Seu</text>
+        </navLabel>
+        <content src="Text/pocasi_v_evrope_008.xhtml#_idParaDest-7"/>
+      </navPoint>
+      <navPoint id="navPoint-8" playOrder="8">
+        <navLabel>
+          <text>4. Křik, který začal na úpatí parku Güell</text>
+        </navLabel>
+        <content src="Text/pocasi_v_evrope_008.xhtml#_idParaDest-8"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Ve vietnamské večerce</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_009.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Štíhlé sumo</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_010.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Útok vůně</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_011.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Ztracené básně</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_012.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Splitský výjev</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_013.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Americká krása</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_014.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Vzpomínka na Bělehrad</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_015.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>To léto</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_016.xhtml#_idParaDest-16"/>
+      <navPoint id="navPoint-17" playOrder="17">
+        <navLabel>
+          <text>1.</text>
+        </navLabel>
+        <content src="Text/pocasi_v_evrope_016.xhtml#_idParaDest-17"/>
+      </navPoint>
+      <navPoint id="navPoint-18" playOrder="18">
+        <navLabel>
+          <text>2.</text>
+        </navLabel>
+        <content src="Text/pocasi_v_evrope_016.xhtml#_idParaDest-18"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Tato báseň není o politice</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_017.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Nejsem Balkánec</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_018.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Noc s partyzánem</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_019.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Ante</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_020.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Myslím, že jsem se o tebe pořezal</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_021.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Podlaha</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_022.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Pětiletý medvěd se ptá</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_023.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Teplý zpěv ticha</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_024.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Slavonská samota</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_025.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Koupelna v domě nad křižovatkou</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_026.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Milenci / Tarot /</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_027.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Moje neznámá</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_028.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Proti rohu</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_029.xhtml#_idParaDest-31"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Otazníky luny</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_030.xhtml#_idParaDest-32"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Nejsa Faust</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_031.xhtml#_idParaDest-33"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Předpoklad místo nonsensu</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_032.xhtml#_idParaDest-34"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>So what — pocta blahoslavenému Milesovi Davisovi</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_033.xhtml#_idParaDest-35"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Zárodky příštích básní</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_034.xhtml#_idParaDest-36"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Sekvence z moře</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_035.xhtml#_idParaDest-37"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Počasí v Evropě</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_036.xhtml#_idParaDest-38"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Konec týdne</text>
+      </navLabel>
+      <content src="Text/pocasi_v_evrope_037.xhtml#_idParaDest-39"/>
+    </navPoint>
+  </navMap>
+</ncx>

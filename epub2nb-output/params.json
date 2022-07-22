@@ -1,0 +1,773 @@
+{
+  "params": {
+    "metadata": {
+      "title": "Počasí v Evropě",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Adam Borzič",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-10-07T00:00:00.000Z"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "centered": ".*uprostred.*",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "verse": "MLP.verse.*",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "pocasi_v_evrope_001.md",
+            "xhtml": "pocasi_v_evrope_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_002.md",
+            "xhtml": "pocasi_v_evrope_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_003.md",
+            "xhtml": "pocasi_v_evrope_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_004.md",
+            "xhtml": "pocasi_v_evrope_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_005.md",
+            "xhtml": "pocasi_v_evrope_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_006.md",
+            "xhtml": "pocasi_v_evrope_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_007.md",
+            "xhtml": "pocasi_v_evrope_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_008.md",
+            "xhtml": "pocasi_v_evrope_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_009.md",
+            "xhtml": "pocasi_v_evrope_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_010.md",
+            "xhtml": "pocasi_v_evrope_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_011.md",
+            "xhtml": "pocasi_v_evrope_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_012.md",
+            "xhtml": "pocasi_v_evrope_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_013.md",
+            "xhtml": "pocasi_v_evrope_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_014.md",
+            "xhtml": "pocasi_v_evrope_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_015.md",
+            "xhtml": "pocasi_v_evrope_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_016.md",
+            "xhtml": "pocasi_v_evrope_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_017.md",
+            "xhtml": "pocasi_v_evrope_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_018.md",
+            "xhtml": "pocasi_v_evrope_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_019.md",
+            "xhtml": "pocasi_v_evrope_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_020.md",
+            "xhtml": "pocasi_v_evrope_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_021.md",
+            "xhtml": "pocasi_v_evrope_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_022.md",
+            "xhtml": "pocasi_v_evrope_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_023.md",
+            "xhtml": "pocasi_v_evrope_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_024.md",
+            "xhtml": "pocasi_v_evrope_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_025.md",
+            "xhtml": "pocasi_v_evrope_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_026.md",
+            "xhtml": "pocasi_v_evrope_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_027.md",
+            "xhtml": "pocasi_v_evrope_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_028.md",
+            "xhtml": "pocasi_v_evrope_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_029.md",
+            "xhtml": "pocasi_v_evrope_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_030.md",
+            "xhtml": "pocasi_v_evrope_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_031.md",
+            "xhtml": "pocasi_v_evrope_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_032.md",
+            "xhtml": "pocasi_v_evrope_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_033.md",
+            "xhtml": "pocasi_v_evrope_033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_034.md",
+            "xhtml": "pocasi_v_evrope_034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_035.md",
+            "xhtml": "pocasi_v_evrope_035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_036.md",
+            "xhtml": "pocasi_v_evrope_036.xhtml",
+            "id": 35,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_037.md",
+            "xhtml": "pocasi_v_evrope_037.xhtml",
+            "id": 36,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          },
+          {
+            "filename": "pocasi_v_evrope_038.md",
+            "xhtml": "pocasi_v_evrope_038.xhtml",
+            "id": 37,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false
+          }
+        ]
+      }
+    ]
+  },
+  "epub": {
+    "metadata": {
+      "title": "Počasí v Evropě",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Adam Borzič",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-10-07T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_001.md",
+        "xhtml": "pocasi_v_evrope_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_002.md",
+        "xhtml": "pocasi_v_evrope_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_003.md",
+        "xhtml": "pocasi_v_evrope_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_004.md",
+        "xhtml": "pocasi_v_evrope_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_005.md",
+        "xhtml": "pocasi_v_evrope_005.xhtml"
+      },
+      {
+        "titleSuggest": "Na výběr",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_006.md",
+        "xhtml": "pocasi_v_evrope_006.xhtml"
+      },
+      {
+        "titleSuggest": "Krachuje kapitalismus, leč poezie na zemi neumlká",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_007.md",
+        "xhtml": "pocasi_v_evrope_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_008.md",
+        "xhtml": "pocasi_v_evrope_008.xhtml"
+      },
+      {
+        "titleSuggest": "Ve vietnamské večerce",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_009.md",
+        "xhtml": "pocasi_v_evrope_009.xhtml"
+      },
+      {
+        "titleSuggest": "Štíhlé sumo",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_010.md",
+        "xhtml": "pocasi_v_evrope_010.xhtml"
+      },
+      {
+        "titleSuggest": "Útok vůně",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_011.md",
+        "xhtml": "pocasi_v_evrope_011.xhtml"
+      },
+      {
+        "titleSuggest": "Ztracené básně",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_012.md",
+        "xhtml": "pocasi_v_evrope_012.xhtml"
+      },
+      {
+        "titleSuggest": "Splitský výjev",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_013.md",
+        "xhtml": "pocasi_v_evrope_013.xhtml"
+      },
+      {
+        "titleSuggest": "Americká krása",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_014.md",
+        "xhtml": "pocasi_v_evrope_014.xhtml"
+      },
+      {
+        "titleSuggest": "Vzpomínka na Bělehrad",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_015.md",
+        "xhtml": "pocasi_v_evrope_015.xhtml"
+      },
+      {
+        "titleSuggest": "To léto",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_016.md",
+        "xhtml": "pocasi_v_evrope_016.xhtml"
+      },
+      {
+        "titleSuggest": "Tato báseň není o politice",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_017.md",
+        "xhtml": "pocasi_v_evrope_017.xhtml"
+      },
+      {
+        "titleSuggest": "Nejsem Balkánec",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_018.md",
+        "xhtml": "pocasi_v_evrope_018.xhtml"
+      },
+      {
+        "titleSuggest": "Noc s partyzánem",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_019.md",
+        "xhtml": "pocasi_v_evrope_019.xhtml"
+      },
+      {
+        "titleSuggest": "Ante",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_020.md",
+        "xhtml": "pocasi_v_evrope_020.xhtml"
+      },
+      {
+        "titleSuggest": "Myslím, že jsem se o tebe pořezal",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_021.md",
+        "xhtml": "pocasi_v_evrope_021.xhtml"
+      },
+      {
+        "titleSuggest": "Podlaha",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_022.md",
+        "xhtml": "pocasi_v_evrope_022.xhtml"
+      },
+      {
+        "titleSuggest": "Pětiletý medvěd se ptá",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_023.md",
+        "xhtml": "pocasi_v_evrope_023.xhtml"
+      },
+      {
+        "titleSuggest": "Teplý zpěv ticha",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_024.md",
+        "xhtml": "pocasi_v_evrope_024.xhtml"
+      },
+      {
+        "titleSuggest": "Slavonská samota",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_025.md",
+        "xhtml": "pocasi_v_evrope_025.xhtml"
+      },
+      {
+        "titleSuggest": "Koupelna v domě nad křižovatkou",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_026.md",
+        "xhtml": "pocasi_v_evrope_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_027.md",
+        "xhtml": "pocasi_v_evrope_027.xhtml"
+      },
+      {
+        "titleSuggest": "Moje neznámá",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_028.md",
+        "xhtml": "pocasi_v_evrope_028.xhtml"
+      },
+      {
+        "titleSuggest": "Proti rohu",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_029.md",
+        "xhtml": "pocasi_v_evrope_029.xhtml"
+      },
+      {
+        "titleSuggest": "Otazníky luny",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_030.md",
+        "xhtml": "pocasi_v_evrope_030.xhtml"
+      },
+      {
+        "titleSuggest": "Nejsa Faust",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_031.md",
+        "xhtml": "pocasi_v_evrope_031.xhtml"
+      },
+      {
+        "titleSuggest": "Předpoklad místo nonsensu",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_032.md",
+        "xhtml": "pocasi_v_evrope_032.xhtml"
+      },
+      {
+        "titleSuggest": "So what — pocta blahoslavenému Milesovi Davisovi",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_033.md",
+        "xhtml": "pocasi_v_evrope_033.xhtml"
+      },
+      {
+        "titleSuggest": "Zárodky příštích básní",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_034.md",
+        "xhtml": "pocasi_v_evrope_034.xhtml"
+      },
+      {
+        "titleSuggest": "Sekvence z moře",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_035.md",
+        "xhtml": "pocasi_v_evrope_035.xhtml"
+      },
+      {
+        "titleSuggest": "Počasí v Evropě",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_036.md",
+        "xhtml": "pocasi_v_evrope_036.xhtml"
+      },
+      {
+        "titleSuggest": "Konec týdne",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_037.md",
+        "xhtml": "pocasi_v_evrope_037.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "pocasi_v_evrope_038.md",
+        "xhtml": "pocasi_v_evrope_038.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/OBALKA01-0004601966.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "DO_OBSAHU_UVOD",
+      "Hyperlink",
+      "MLP_UROVEN2_BASNE_POSUNUTE",
+      "MLP_UROVEN3_BASNE_POSUNUTE",
+      "MLP_VERSE_POSUNUTE",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_basne",
+      "MLP_uroven3_basne",
+      "MLP_verse_-0-0--",
+      "MLP_verse_-0-12-",
+      "MLP_verse_-I-_-0-0--",
+      "MLP_verse_-I-_-0-12-",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-10",
+      "ParaOverride-11",
+      "ParaOverride-12",
+      "ParaOverride-2",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-6",
+      "ParaOverride-7",
+      "ParaOverride-8",
+      "ParaOverride-9",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "borzic-pocasi-v-evrope"
+    },
+    "generatedAt": 1658494300009
+  }
+}
