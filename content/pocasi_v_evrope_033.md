@@ -1,11 +1,11 @@
 ---
 title: "So what\_— pocta blahoslavenému Milesovi Davisovi"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Přeskoč to —  
+Přeskoč to —  
 přeskoč všechny ty marné pokusy  
 zbrousit papír tak,  
 aby porodil sající slunce,  
@@ -44,13 +44,13 @@ zvrat, nedovolená rychlost okamžiku,
 který se ne a ne zcela podvolit touze,  
 která po něm šmátrá a hmatá  
 feťácky nervózně a nakonec vyklouzne  
-ze sevření —_
+ze sevření —
 
 </section>
 
 <section>
 
-_co je to? příval? modř? vlny?  
+co je to? příval? modř? vlny?  
 proč teď kopec téměř vlasů  
 čeká, že jehlice ho probodne  
 a krajina náhle ztygrovatí,  
@@ -58,13 +58,13 @@ a krajina náhle ztygrovatí,
 a žádné myšlence se nechce spát,  
 každá si chce pod peřinou hrát  
 s pohlavím, které je najednou scvrklé  
-jak suchý fík_
+jak suchý fík
 
 </section>
 
 <section>
 
-_Je tohle smutek —  
+Je tohle smutek —  
 vypadám, že vypadnu z okna a spadnu  
 na plochou ulici, která mě přijme téměř jako matka?  
 co je to? klec? z které nejde vystoupit? nebo, že bydlím v přízemí,  
@@ -100,6 +100,6 @@ už nevěřím v pointy, v literaturu, v skepsi ani naději
 a na chvíli nechávám to modré a sametové v útrobách  
 trochu žít a frázovat  
 trochu —  
-         komický pták_
+         komický pták
 
 </section>

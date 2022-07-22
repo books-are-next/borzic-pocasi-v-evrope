@@ -1,22 +1,22 @@
 ---
 title: Na výběr
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Co chceš zaznamenat?  
+Co chceš zaznamenat?  
 Zeptal se mě Mechanicky  
             Poeticky  
 Jako když se z počítače  
 stane psací stroj  
-a oko náhle zvlhne_
+a oko náhle zvlhne
 
 </section>
 
 <section>
 
-_Květiny?  
+Květiny?  
 Nahá těla?  
 Rozhořčené Španěly & Řeky?  
 Smutné dobré Nory?  
@@ -25,6 +25,6 @@ Muší příběhy z dovolené?
 Velké astrální výlety?  
 Touhy?  
 Obavy?  
-Odvahy?_
+Odvahy?
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Otazníky luny
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Je tam vrah? —  
+Je tam vrah? —  
 ptám se a šátrám po vypínači  
 a noc je mechová.  
 A teď, když chčiju,  
@@ -16,17 +16,17 @@ velkého jak barák?
 Je někdo ve mně? —  
 kdo si otevírá dvířka  
 a schází do sklepa,  
-aby tam našel, co asi?_
+aby tam našel, co asi?
 
 </section>
 
 <section>
 
-_Hmat nebo čich.  
+Hmat nebo čich.  
 Dopředu a vzad.  
 Žlutý prstoklad.  
 Otazníky luny.  
 Opiový pád  
-zvoní do hlubiny._
+zvoní do hlubiny.
 
 </section>

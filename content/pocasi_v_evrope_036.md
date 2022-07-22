@@ -1,11 +1,11 @@
 ---
 title: "Počasí v\_Evropě"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Sledoval jsem na ostrově Krk  
+Sledoval jsem na ostrově Krk  
 Koncem července  
 Celý týden nebe  
 Vášně se hnaly po obloze léta  
@@ -15,26 +15,26 @@ Bárka bledého slunce
 A koncert bouřek  
 Dirigovaný štvanci  
 Vysokého napětí  
-Ve dne v noci_
+Ve dne v noci
 
 </section>
 
 <section>
 
-_Ten týden Nor  
+Ten týden Nor  
 Zastřelil jiné Nory  
 Z jasné  
 A jisté strany  
-Nenávisti._
+Nenávisti.
 
 </section>
 
 <section>
 
-_Pršelo a hřmělo  
+Pršelo a hřmělo  
 Ten týden  
 Nejen  
 Na chorvatském  
-Severu_
+Severu
 
 </section>

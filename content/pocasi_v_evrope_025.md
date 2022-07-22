@@ -1,11 +1,11 @@
 ---
 title: Slavonská samota
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Už zas pepř. Kulička  
+Už zas pepř. Kulička  
 zadrhla se v zubech,  
 skousnul jsem, a černý  
 prach mi explodoval v ústech.  
@@ -31,13 +31,13 @@ a tobě jebne v mozku.
 Kliď se, spal tuhle mapu,  
 a já skloněný nad ní,  
 dýchám do ní rum,  
-a za humny se chvějí pomněnky._
+a za humny se chvějí pomněnky.
 
 </section>
 
 <section>
 
-_O čem nelze mluvit,  
+O čem nelze mluvit,  
 o tom zpívám,  
 vítr mě rozmrdal  
 jak venkovanku na slámě.  
@@ -82,13 +82,13 @@ můj smích by byl lasičí,
 kroutil bych se, až by mě ubili  
 pro slané oči touhy,  
 a já na obláčku  
-vyklouznul do nebe._
+vyklouznul do nebe.
 
 </section>
 
 <section>
 
-_Slavonská samota.  
+Slavonská samota.  
 Tlustá jak palec preláta.  
 Polkni ji, hustou jak semeno.  
 Skoro rodnou hroudu sněz.  
@@ -107,12 +107,12 @@ Až vylezeš na kopec,
 malinký jak prs,  
 budou hodiny bít na poplach  
 a ty se konečně opiješ,  
-jak káže zákon._
+jak káže zákon.
 
 </section>
 
 <section>
 
-_Zákon, ne milost._
+Zákon, ne milost.
 
 </section>

@@ -1,11 +1,11 @@
 ---
 title: Zárodky příštích básní
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Mají-li se zrodit Básně,  
+Mají-li se zrodit Básně,  
 ať už teď běží pěšinou města,  
 proradné a slabé.  
 Prohnat je chci po kolejích  
@@ -16,13 +16,13 @@ promenádovat se budou
 do úplného zblbnutí.  
 Pak zaženu je do bankovní šachty  
 a nad zamřížovanou hlavou  
-pustím jim okřídlený větrák._
+pustím jim okřídlený větrák.
 
 </section>
 
 <section>
 
-_Klobásy viny voní na náměstích,  
+Klobásy viny voní na náměstích,  
 vyleštěné hadí hlavy  
 chrlí ciferná séra,  
 kysele prší  
@@ -33,38 +33,38 @@ pozdě večer
 ve foyer dražší kavárny  
 ukradl na setinu pohled  
 a pronikl v strmém záblesku  
-předsálí pekla._
+předsálí pekla.
 
 </section>
 
 <section>
 
-_Mají-li se zrodit básně,  
+Mají-li se zrodit básně,  
 nemůže ani jeden zárodek  
 drezúra vynechat.  
 Žijeme ve věku Velkých Mrchožroutů.  
 Z jejich sak máme ostudy kabát  
 podle zásluhy přímé úměry  
 pasivní touze věřit  
-španělským muškám Médií._
+španělským muškám Médií.
 
 </section>
 
 <section>
 
-_Mají-li se zrodit příští básně,  
+Mají-li se zrodit příští básně,  
 nemůžu lásku vynechat.  
 Musím vdechovat její kouř,  
 dlouho ho v plicích držet,  
 až zčervená  
 do tvaru tetované skvrny,  
-o jejímž tichém smutku sním._
+o jejímž tichém smutku sním.
 
 </section>
 
 <section>
 
-_Mají-li se zrodit básně,  
+Mají-li se zrodit básně,  
 musí být Praha Londýn  
 a Londýn Havana.  
 Nekorektní láska  
@@ -75,24 +75,24 @@ Vejít branou
 vystřelit naslepo strmou větu,  
 seschlou větví podpálit stoh,  
 krví božského punku se pomazat  
-a sejít se s Bohem i napřesrok._
+a sejít se s Bohem i napřesrok.
 
 </section>
 
 <section>
 
-_Mají-li se zrodit básně,  
-od Uralu k Vinohradské vodárně_
+Mají-li se zrodit básně,  
+od Uralu k Vinohradské vodárně
 
 </section>
 
 <section>
 
-_je třeba se vyznat z revolučních sond,  
+je třeba se vyznat z revolučních sond,  
 oslavit je drsnou souloží Luny a Slunce  
 a Dylanovi Thomasovi pogratulovat  
             k dalším nebeským narozeninám.  
 Pak na party ukrást mu prasklý Pegasův roh  
-a skočit s ním do rokle světa nahý jako list._
+a skočit s ním do rokle světa nahý jako list.
 
 </section>

@@ -1,58 +1,58 @@
 ---
 title: "Sekvence z\_moře"
-contentType: prose
+contentType: poetry
 ---
 
 <section>
 
-_Plaz na písčině,  
+Plaz na písčině,  
 tyrkysovými žilkami protkaný hřbet.  
 Mediterán v oku.  
 A to oko v díře noci  
 do sta zálivů vysílá své špehy,  
-šeptá je._
+šeptá je.
 
 </section>
 
 <section>
 
-_\*_
+\*
 
-_Z tohohle hroznu jsem se zrodil.  
+Z tohohle hroznu jsem se zrodil.  
 Kuličky syčícího ticha.  
 Lechtané břehy.  
-Lechtivé stromy._
+Lechtivé stromy.
 
 </section>
 
 <section>
 
-_\*_
+\*
 
-_/ Pod ostrým úhlem teď  
-bouřka metá klášterem balvanů. /_
+/ Pod ostrým úhlem teď  
+bouřka metá klášterem balvanů. /
 
 </section>
 
 <section>
 
-_\*_
+\*
 
-_Vrátil jsem se, abych si ukrojil žlutý stín nebeské lodi.  
+Vrátil jsem se, abych si ukrojil žlutý stín nebeské lodi.  
 Vrátil jsem se, protože moje krev si o to řekla hlasitě mým slinám.  
-Vrátil jsem se, abych se postavil monstrózně komiksovému Otci._
+Vrátil jsem se, abych se postavil monstrózně komiksovému Otci.
 
 </section>
 
 <section>
 
-_Vrátil jsem jako ten kdo ví kdo zná kdo ochutnal  
-nástrahy měsíčního jablka_
+Vrátil jsem jako ten kdo ví kdo zná kdo ochutnal  
+nástrahy měsíčního jablka
 
 </section>
 
 <section>
 
-_A vrhnul se do vln._
+A vrhnul se do vln.
 
 </section>

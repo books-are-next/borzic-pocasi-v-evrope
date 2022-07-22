@@ -1,11 +1,9 @@
 ---
-title: ''
-contentType: prose
+title: Milenci / Tarot /
+contentType: poetry
 ---
 
 <section>
-
-Milenci / Tarot /
 
 Nebylo míjení. Zasněné odpoledne stvořené bleskem  
 naklonilo svoji klidnou tvář nad mým oválem a povědělo mi o všech  
