@@ -8,8 +8,8 @@
   "edition": "Poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "borzic-pocasi-v-evrope-32b16de",
-  "revision": "32b16de",
+  "identifier": "borzic-pocasi-v-evrope-23f35ca",
+  "revision": "23f35ca",
   "readingOrder": [
     "promo.html",
     "pocasi_v_evrope_005.html",
@@ -48,8 +48,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:47:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664923633420
+    "date": "Fri Oct 07 2022 13:55:58 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150958540
   },
   "documents": [
     {
